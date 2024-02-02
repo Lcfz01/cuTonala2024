@@ -1,2 +1,2 @@
 # cuTonala2024
-practica gitflow
+practica gitflow, vamos pascalers
