@@ -1,2 +1,2 @@
 # cuTonala2024
-practica girflow
+practica gitflow
