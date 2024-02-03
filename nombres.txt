@@ -1,2 +1,5 @@
-nombres: 
-diego
+Nombres: 
+Diego
+Arely
+Lucia "Lukas"
+Hugo
