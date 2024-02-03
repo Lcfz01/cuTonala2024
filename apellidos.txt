@@ -1,4 +1,5 @@
 apellidos:
+Whizo
 Cornejo
-zepeda 
-galvan
+Zepeda 
+Galvan
